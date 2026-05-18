@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Plus Jakarta Sans", sans-serif;
+  
+  --color-primary: #0D59F2;
+  --color-primary-dark: #0044CC;
+  --color-background-light: #F4F7FB;
+  --color-surface: #FFFFFF;
+  --color-text-main: #0B132B;
+  --color-text-muted: #7A89A0;
+  --color-accent-success: #00D084;
+  --color-border-light: #E1E8F1;
+  --color-error: #FF3366;
+  
+  --radius-DEFAULT: 6px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  
+  --shadow-glow: 0 4px 20px rgba(13, 89, 242, 0.15);
+}
+
+@layer base {
+  body {
+    @apply bg-background-light text-text-main font-body antialiased;
+  }
+}
+
+/* Custom scrollbar for horizontal chips */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

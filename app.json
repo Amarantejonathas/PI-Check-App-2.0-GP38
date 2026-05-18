@@ -1,0 +1,10 @@
+{
+  "android": {
+    "package": "com.anonymous.reactexample"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "50f6948b-a9cc-4086-9560-0f51d11a60be"
+    }
+  }
+}
