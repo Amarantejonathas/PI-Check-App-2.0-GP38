@@ -82,6 +82,7 @@ Para contribuir com o projeto, acesse o repositório oficial no GitHub:
 ---
 ## Links utéis
 - Video apresentação do YouTube : **link**
+- Link Figma: https://www.figma.com/proto/7sRFH9DK6X13Ru96I1s0Wd/Check-App?node-id=0-1&t=1hvm1C28aXR1IFUr-1
 
 
 ## 🔨 Extensões necessarias e explicação de uso
