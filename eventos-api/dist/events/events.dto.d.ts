@@ -1,0 +1,8 @@
+export declare class CreateEventDto {
+    title: string;
+    description?: string;
+    date: string;
+    location: string;
+}
+export declare class UpdateEventDto extends CreateEventDto {
+}
