@@ -67,7 +67,7 @@ Após a finalização do evento o usuario,pode estar excluindo o evento para man
 
 Para contribuir com o projeto, acesse o repositório oficial no GitHub:
 
-➡️ **https://github.com/Amarantejonathas/Projeto-Integrador-Senac-GP51.git**
+➡️ **https://github.com/Amarantejonathas/PI-Check-App-2.0-GP38/tree/main**
 
 ---
 
