@@ -85,7 +85,7 @@ Para contribuir com o projeto, acesse o repositório oficial no GitHub:
 
 ---
 ## Links utéis
-- Video apresentação do YouTube : **link**
+- Video apresentação do YouTube : https://youtu.be/jLCaGUB2Y3Y?si=Aub1GYp5mP4kB1Pw
 - Link protótipo Figma: https://www.figma.com/proto/7sRFH9DK6X13Ru96I1s0Wd/Check-App?node-id=25-2&t=GGvq6EaS1rIGRvlN-1&starting-point-node-id=25%3A2
 
 
