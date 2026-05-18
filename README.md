@@ -1,7 +1,7 @@
 # Projeto-Integrador-Senac-GP38
 PROJETO INTEGRADOR CHECK-APP
 <h1>
-    <img src="Checkevent_logo.png"> 
+    <img src="checkapp.png"> 
 
 
 #  CHECK-APP
