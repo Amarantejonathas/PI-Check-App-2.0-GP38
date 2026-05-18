@@ -6,7 +6,7 @@ PROJETO INTEGRADOR CHECK-APP
 
 #  CHECK-APP
 
-O **Check-App** é uma plataforma inovadora desenvolvida como **plataforma**, com o objetivo de ajudar os usuarios a planejar eventos, festas, reuniões ou tarefas, com praticidade e pouco esforço 
+O Check-App é um aplicativo desenvolvido para auxiliar usuários no gerenciamento de eventos, tarefas e convidados de forma simples, prática e organizada.
 
 ---
 
@@ -16,6 +16,10 @@ O **Check-App** é uma plataforma inovadora desenvolvida como **plataforma**, co
 - **Jonathas Gonçalves Amarante**
 - **Thalles Ricardo De Lima**
 - **Vitor Viera Santos Ramos**
+- **Vinicius Silva Soares**
+- **Ygor de Oliveira Ignacio**
+- **Wendel Pires dos Santos**
+- **Tatiane Quintana Martell**
 ---
 
 ## 📌 Funcionalidade do Aplicativo
@@ -32,11 +36,8 @@ O Projeto foi idealizado para:
 
 ## 🎯 Propósito
 
-O Check-App busca:
-
-- Praticidade aos usuarios.  
-- Oferecerer gestão de eventos com autonomia e facilidade de uso.  
-- Ajudar a quem possa interessar, uma opção de acompanhar eventos e tarefas de forma pratica.  
+Muitas pessoas utilizam anotações dispersas, aplicativos genéricos ou mensagens para organizar eventos e tarefas.
+O Check-App centraliza essas informações em um único ambiente, facilitando o acompanhamento de tarefas, convidados e progresso do evento. 
 
 ---
 
@@ -75,22 +76,32 @@ Para contribuir com o projeto, acesse o repositório oficial no GitHub:
 
 ## 🛠 Tecnologias Utilizadas
 
-- **TypeScript**
+- **React-Native +TypeScript**
 - **HTML**
 - **CSS**
 - **JavaScript**
 - **PostgreSQL**
+- *
 
 ---
 ## Links utéis
 - Video apresentação do YouTube : **link**
-- Link Figma: https://www.figma.com/proto/7sRFH9DK6X13Ru96I1s0Wd/Check-App?node-id=0-1&t=1hvm1C28aXR1IFUr-1
+- Link protótipo Figma: https://www.figma.com/proto/7sRFH9DK6X13Ru96I1s0Wd/Check-App?node-id=25-2&t=GGvq6EaS1rIGRvlN-1&starting-point-node-id=25%3A2
 
 
 ## 🔨 Extensões necessarias e explicação de uso
 
-- expo cli
-- React-Native
+# Clonar repositório
+git clone https://github.com/Amarantejonathas/PI-Check-App-2.0-GP38.git
+
+# Entrar na pasta
+cd PI-Check-App-2.0-GP38
+
+# Instalar dependências
+npm install
+
+# Rodar projeto
+npx expo start
 
 ---
 
