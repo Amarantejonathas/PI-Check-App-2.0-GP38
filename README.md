@@ -14,6 +14,8 @@ O **Check-App** é uma plataforma inovadora desenvolvida como **plataforma**, co
 
 
 - **Jonathas Gonçalves Amarante**
+- **Thalles Ricardo De Lima**
+- **Vitor Viera Santos Ramos**
 ---
 
 ## 📌 Funcionalidade do Aplicativo
